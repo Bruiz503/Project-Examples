@@ -1,7 +1,6 @@
 /* 
  * File:   AmazeMain.cpp
- * Author: KM
- * Modified by: GL
+ * Author: Brandon Ruiz
  * Credits:
  *     Some mazes generated via https://www.dcode.fr/maze-generator
  *
