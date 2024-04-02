@@ -1,7 +1,6 @@
 /* 
  * File:   Maze.cpp
- * Author: KM
- * Modified by: GL
+ * Author: Brandon Ruiz
  * This file contains the Maze class implementation.
  * See Maze.h for the Maze class definition (interface).
  */
